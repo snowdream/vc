@@ -19,3 +19,5 @@ resources/signing
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# /www
+/www
